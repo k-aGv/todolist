@@ -13,11 +13,11 @@ Dynamic Obstacles
 ---------------	
 Allow multitasking (?)
 ---------------
-Dynamic AGVs quantity	
+Dynamic AGVs quantity => dynamic timers
 ---------------
 scan png kai export stin o8oni ws pixel H export map to png	
 ---------------
-relocate the imported image to fit the grid size
+~~relocate the imported image to fit the grid size~~
 ---------------	
 Cherrypick edits to gmaps	
 ---------------
@@ -39,13 +39,13 @@ add option to allow user save his configs ( heuristic/weight/speed etc)
 ---------------
 ~~Upstream with China~~ 
 ---------------
-Clean the 0/50% transparency situation
+~~Clean the 0/50% transparency situation~~
 ---------------
 ~~split functions files~~
 ---------------
 add capacity to agvs ( i.e. : 3 )
 ---------------
-allagi about sto "foitites"
+~~allagi about sto "foitites"~~
 ---------------
 
 ####################################################################################
@@ -54,7 +54,7 @@ allagi about sto "foitites"
 
 ### agricultural
 
-Upstream merge with industrial	
+~~Upstream merge with industrial~~
 ---------------
 ~~default gmaps:bing satelite~~
 ---------------
@@ -64,9 +64,11 @@ Upstream merge with industrial
 ---------------
 ~~screenshot form .na kanoume kati gia tin epikalipsi pou prokalei panw sto map kata to spawn~~
 ---------------
-clean out the mess	
+~~clean out the mess~~	
 ---------------
-allagi about sto "foitites"	
+~~allagi about sto "foitites"~~	
+---------------
+~~Increase the transparency~~
 ---------------
 
 
@@ -75,7 +77,7 @@ allagi about sto "foitites"
 
 
 ### acs
-Rename to 'Logistics'
+~~Rename to 'Logistics'~~
 ---------------
 sync gmaps edits with agricultural
 ---------------
@@ -85,7 +87,7 @@ sync gmaps edits with agricultural
 ---------------
 comment out the unused elements (walls etc) TEMP:for Logistics conference
 ---------------
-allagi about sto "foitites"
+~~allagi about sto "foitites"~~
 ---------------
 
 
