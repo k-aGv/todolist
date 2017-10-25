@@ -1,0 +1,79 @@
+# todolist
+
+##industrial
+Add logic for frontal collision avoidance
+---------------
+Remove Tries	
+---------------
+Dynamic Obstacles
+---------------	
+Allow multitasking (?)
+---------------
+Dynamic AGVs quantity	
+---------------
+scan png kai export stin o8oni ws pixel H export map to png	
+---------------
+relocate the imported image to fit the grid size
+---------------	
+Cherrypick edits to gmaps	
+---------------
+add option to allow user save his configs ( heuristic/weight/speed etc)	
+---------------
+~~change resolution by adding-removing boxes~~	
+---------------
+~~do not allow space press while simulation is active~~	
+---------------
+~~add treeview~~	
+---------------
+~~stable resize~~
+---------------
+~~Cleaner UI initialization~~
+---------------
+~~Embed timers to Vehicle.cs~~
+---------------	
+~~Smooth animation~~
+---------------
+~~Upstream with China~~ 
+---------------
+Clean the 0/50% transparency situation
+---------------
+~~split functions files~~
+---------------
+add capacity to agvs ( i.e. : 3 )
+---------------
+allagi about sto "foitites"
+---------------
+
+
+## agricultural
+
+Upstream merge with industrial	
+---------------
+~~default gmaps:bing satelite~~
+---------------
+~~disable default reversed mouse~~
+---------------
+~~dynamic full screen for maximum gmaps layout size~~
+---------------
+~~screenshot form .na kanoume kati gia tin epikalipsi pou prokalei panw sto map kata to spawn~~
+---------------
+clean out the mess	
+---------------
+allagi about sto "foitites"	
+---------------
+
+## acs
+Rename to 'Logistics'
+---------------
+sync gmaps edits with agricultural
+---------------
+~~30% transparency~~
+---------------
+~~Allow loads to be placed even if the agvs=0~~
+---------------
+comment out the unused elements (walls etc) TEMP:for Logistics conference
+---------------
+allagi about sto "foitites"
+---------------
+
+
