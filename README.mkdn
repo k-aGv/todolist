@@ -1,6 +1,6 @@
 # todolist
 
-##industrial
+### industrial
 Add logic for frontal collision avoidance
 ---------------
 Remove Tries	
@@ -45,7 +45,7 @@ allagi about sto "foitites"
 ---------------
 
 
-## agricultural
+### agricultural
 
 Upstream merge with industrial	
 ---------------
@@ -62,7 +62,7 @@ clean out the mess
 allagi about sto "foitites"	
 ---------------
 
-## acs
+### acs
 Rename to 'Logistics'
 ---------------
 sync gmaps edits with agricultural
