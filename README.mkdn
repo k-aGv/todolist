@@ -3,7 +3,8 @@
 ### se ola
 Update license and license dates.Respect China's license
 ---------------
-
+FIX THE DAMN RESOLUTION SHIT.ALL APPS WILL BE FULL SCREEN / measure form for 2 forms too
+---------------
 ### industrial
 
 fix: add icon to debug executable
