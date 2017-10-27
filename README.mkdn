@@ -5,6 +5,9 @@ Update license and license dates.Respect China's license
 ---------------
 
 ### industrial
+
+fix: add icon to debug executable
+---------------
 Add logic for frontal collision avoidance
 ---------------
 Remove Tries	
